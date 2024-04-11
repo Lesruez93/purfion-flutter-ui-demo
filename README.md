@@ -1,16 +1,9 @@
 # purfion
 
-A new Flutter project.
+Purfion – Air Purifier IOT for Home Flutter APP UI inspired by this dribble design https://dribbble.com/shots/23846962-Purfion-Mobile-App
 
-## Getting Started
+With Purifion®, you can enjoy peace of mind knowing that you are protected from harmful Ultrafine particles. Our advanced technology ensures a clean and healthy living space.
 
-This project is a starting point for a Flutter application.
+Take control of your indoor air quality with Purifion® – your solution to a safer and fresher environment.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/rec.gif" height="300">
