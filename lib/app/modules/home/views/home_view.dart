@@ -94,7 +94,7 @@ class HomeView extends GetView<HomeController> {
                         ),
                       ),
                       Container(
-                        padding: EdgeInsets.only(top: sy(60)),
+                        padding: EdgeInsets.only(top: sy(65)),
                         child: Center(
                           child: Column(
                             children: [
