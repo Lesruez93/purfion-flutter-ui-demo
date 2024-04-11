@@ -1,0 +1,27 @@
+name: purfion
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get: 4.6.6
+
+  flutter: 
+    sdk: flutter
+  relative_scale: ^2.0.0
+
+dev_dependencies: 
+  flutter_lints: 3.0.2
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  fonts:
+    - family: DigitalFont
+      fonts:
+        - asset: assets/fonts/digital.ttf
+
