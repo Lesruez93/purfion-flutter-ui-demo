@@ -6,4 +6,4 @@ With Purifion®, you can enjoy peace of mind knowing that you are protected from
 
 Take control of your indoor air quality with Purifion® – your solution to a safer and fresher environment.
 
-<img src="assets/rec.gif" height="300">
+<img src="assets/rec.gif" height="640">
